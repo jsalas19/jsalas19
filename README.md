@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Josh,
-- 👀 I’m interested in programming languages and playing video games,
-- 🌱 I’m currently learning about automata and how to apply to internships,
-- 💞️ I’m looking to collaborate on almost anything, I want to learn a ton of new things from anyone willing to teach/mentor me.
-- 📫 How to reach me:
+-   Hi, I’m Josh,
+-   I’m interested in programming languages and playing video games,
+-   I’m currently learning about automata and how to apply to internships,
+-   I’m looking to collaborate on almost anything, I want to learn a ton of new things from anyone willing to teach/mentor me.
+-   How to reach me:
 -   via email @ jsalas19@miners.utep.edu
