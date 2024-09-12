@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Joshua Salas</h1>
+<h1 align="center">Hi 👋, I'm Josh</h1>
 <h3 align="center">Excited "Final-Semester" Undergrad at the University of Texas - El Paso, Ready and willing to learn/perform almost any work given.</h3>
 
 - 🔭 I’m currently working on **Infiltr8**
